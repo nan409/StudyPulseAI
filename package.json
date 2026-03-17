@@ -1,0 +1,21 @@
+{
+  "name": "studypulseai",
+  "version": "1.0.0",
+  "description": "StudyPulse AI is a high-performance, SaaS-ready platform designed for students and institutions. It combines AI coaching, smart flashcards (SRS), and collaborative task tracking into a stunning, glassmorphism-inspired interface.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nan409/study-pulse-ai.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/nan409/study-pulse-ai/issues"
+  },
+  "homepage": "https://github.com/nan409/study-pulse-ai#readme"
+}
