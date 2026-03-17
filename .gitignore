@@ -1,0 +1,29 @@
+# Common
+.env
+.env.local
+.env.*.local
+*.log
+.DS_Store
+dist/
+build/
+node_modules/
+
+# Backend
+__pycache__/
+*.py[cod]
+*$py.class
+.venv/
+venv/
+ENV/
+instance/
+.pytest_cache/
+.coverage
+htmlcov/
+
+# Frontend
+.vite/
+coverage/
+*.local
+
+# Docker
+.dockerignore
