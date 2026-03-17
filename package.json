@@ -2,7 +2,14 @@
   "name": "study-pulse-ai-root",
   "version": "1.0.0",
   "private": true,
+  "workspaces": [
+    "frontend"
+  ],
   "scripts": {
-    "build": "echo 'Building subprojects...'"
+    "build": "npm run build --workspace=frontend"
+  },
+  "overrides": {
+    "@types/react": "^18.2.15",
+    "@types/react-dom": "^18.2.7"
   }
 }
