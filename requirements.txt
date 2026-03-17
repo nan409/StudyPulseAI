@@ -11,12 +11,7 @@ bcrypt==4.1.2
 python-dotenv==1.0.0
 pydantic==2.3.0
 google-generativeai==0.3.1
-openai==1.0.0
 psycopg2-binary==2.9.7
-gunicorn==21.2.0
-gevent==23.7.0
-redis==5.0.0
-celery==5.3.4
 paddle-billing==1.1.0
 resend==0.6.0
 sentry-sdk[flask]==1.31.0
